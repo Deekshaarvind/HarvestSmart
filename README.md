@@ -166,3 +166,15 @@ tomato · onion · potato · wheat · rice · maize · cotton · chilli · banan
 ## 📋 Supported States
 
 Karnataka · Maharashtra · Gujarat · Rajasthan · Punjab · Haryana · Tamil Nadu · Andhra Pradesh · Telangana · Kerala · Bihar · West Bengal · Odisha · Chhattisgarh · Uttar Pradesh · Madhya Pradesh
+
+##  🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/7976184f-a1a4-4a03-a92c-393e7b9e2fa1
+
+
+
+
+
+
+
